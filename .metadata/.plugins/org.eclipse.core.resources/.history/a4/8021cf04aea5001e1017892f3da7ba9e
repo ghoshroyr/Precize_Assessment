@@ -1,0 +1,5 @@
+package com.rg.precizeassessment.Services;
+
+public interface StudentService {
+
+}

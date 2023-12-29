@@ -1,0 +1,5 @@
+package com.rg.precizeassessment.entities;
+
+public class Student {
+
+}
